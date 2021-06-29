@@ -1,0 +1,21 @@
+namespace: StephenSorriaux
+name: ansible_kafka_admin
+version: 0.13.0
+readme: README.md
+
+authors:
+- Stephen SORRIAUX
+
+description: Manage Kafka resources (topic, broker, acl)
+
+license:
+- apache v2
+
+tags: ['kafka']
+
+dependencies: {}
+
+repository: https://github.com/StephenSorriaux/ansible-kafka-admin.git
+documentation: https://github.com/StephenSorriaux/ansible-kafka-admin.git
+homepage: https://github.com/StephenSorriaux/ansible-kafka-admin.git
+issues: https://github.com/StephenSorriaux/ansible-kafka-admin.git
